@@ -1,0 +1,7 @@
+import pharmacypack.*;
+public class pm
+{
+public static void main(String[] args) {
+        new PharmacyManagement();
+    }
+}
